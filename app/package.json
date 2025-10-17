@@ -1,0 +1,17 @@
+{
+  "name": "clickseguro-app",
+  "version": "1.0.0",
+  "description": "App simples propositalmente vulner\u00e1vel para scan ZAP",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "4.19.2"
+  },
+  "devDependencies": {
+    "wait-on": "7.2.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
